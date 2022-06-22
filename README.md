@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @xwedea
-- 👀 I’m interested in Deep Learning and Web Development
-- 🌱 I’m currently learning Natural Language Processing with Tensorflow
-- 📫 How to reach me mecitjiyan@gmail.com
-- </>
+- 👋 Hi, I’m Jiyan
+- 👀 This summer, I am doing research on Load Balancing Optimization on Edge Clouds
+- 🌱 Currently learning Unreal Engine, and developing 3D games with C++
+- 📫 Send me an email: mecitjiyan@gmail.com
+
+
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---

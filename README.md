@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiyan
-- 👀 This summer, I am doing research on Load Balancing Optimization on Edge Clouds
+- 👀 This summer, I am doing research on Load Balancing Algorithms on Edge Clouds
 - 🌱 Currently learning Unreal Engine, and developing 3D games with C++
 - 📫 Send me an email: mecitjiyan@gmail.com
 

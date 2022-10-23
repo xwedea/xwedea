@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Jiyan
-- 👀 This summer, I am doing research on Load Balancing Algorithms on Edge Clouds
-- 🌱 Currently learning Unreal Engine, and developing 3D games with C++
+- 🌱 Game Development with Unreal Engine, C++ 
+  -  sadf
+- 👀 I did research on Load Balancing Algorithms on Edge Clouds, In Summer 2022
 - 📫 Send me an email: mecitjiyan@gmail.com
 
-
-<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 xwedea/xwedea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

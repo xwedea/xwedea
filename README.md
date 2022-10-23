@@ -4,7 +4,7 @@
   -  Godot Engine
 - 👀 I did research on Load Balancing Algorithms on Edge Clouds, In Summer 2022
 - 📫 Send me an email: mecitjiyan@gmail.com
-- Check https://jiyan.dev
+- https://jiyan.dev
 
 
 <!---

@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Jiyan
-- 🌱 Game Development with 
-  -  Unreal Engine, C++
-  -  Godot Engine
 - 📫 Send me an email: mecitjiyan@gmail.com
 
 <!---

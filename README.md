@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jiyan
-- 📫 Send me an email: mecitjiyan@gmail.com
+- 📫 Contact me: mecitjiyan@gmail.com
 
 <!---
 xwedea/xwedea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
